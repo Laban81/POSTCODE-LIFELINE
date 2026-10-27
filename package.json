@@ -1,0 +1,6 @@
+{
+  "name": "postcode-lifeline-demo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "POSTCODE LIFELINE pilot prototype, hosted on Netlify with Netlify Functions for NIPOST lookups."
+}
